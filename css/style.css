@@ -1,8 +1,9 @@
 @import "bootstrap.min.css";
 
-.custom-bg-color-black-light
+.custom-bg-color-picture
 {
-    background-color: #36393f;
+    /*background-color: #36393f;*/
+    background-color: #fff;
 }
 
 .custom-piture-size
