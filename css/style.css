@@ -1,0 +1,12 @@
+@import "bootstrap.min.css";
+
+.custom-bg-color-black-light
+{
+    background-color: #36393f;
+}
+
+.custom-piture-size
+{
+	width: 80%;
+	max-width: 400px;
+}
